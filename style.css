@@ -1,0 +1,19 @@
+.container {
+    margin-top:2em;
+    background-color: #e4f2ff;
+}
+.btn-primary{
+    margin: 1em;
+}
+
+input, textarea{
+    margin-left: 1em !important;
+}
+
+textarea{
+    width: 70% !important;
+}
+
+.reset{
+    float:right;
+}
